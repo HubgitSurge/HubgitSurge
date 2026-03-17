@@ -1,4 +1,4 @@
-# :person_juggling: Welcome to my Github:
+# 🤹 Welcome to my Github:
 I focus on providing secure and robust managed services, <br>with focus on advisory and compliance for HIPPA, SEC, NYDFS regulated verticals.   
 
 
