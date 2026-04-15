@@ -1,5 +1,5 @@
 # 🤹 Welcome to my Github:
-Professional Business Analyst | Customer Success with IT Products & Services l Data-Driven Solutions to Improve Operational Efficiency l Customer Retention l Digital Transformation | Business Development<br> With focus on advisory and compliance for HIPPA, SEC, NYDFS regulated verticals.   
+Professional Business Analyst | Customer Success with IT Products & Services l Data-Driven Solutions to Improve Operational Efficiency l Customer Retention l Digital Transformation | Business Development with focus on advisory and compliance for HIPPA, SEC, NYDFS regulated verticals.   
 
 
 # 💻 Tableau Dashboards:
